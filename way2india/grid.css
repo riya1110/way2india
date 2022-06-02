@@ -1,0 +1,302 @@
+.row
+{
+	width: 1200px;
+	margin: 0 auto;
+}
+.col-1
+{
+	width: 100px;
+	float: left;
+}
+.col-2
+{
+	width: 200px;
+	float: left;
+}
+.col-3
+{
+	width: 300px;
+	float: left;
+}
+.col-4
+{
+	width: 400px;
+	float: left;
+}
+.col-5
+{
+	width: 500px;
+	float: left;
+}
+.col-6
+{
+	width: 600px;
+	float: left;
+}
+.col-7
+{
+	width: 700px;
+	float: left;
+}
+.col-8
+{
+	width: 800px;
+	float: left;
+}
+.col-9
+{
+	width: 900px;
+	float: left;
+}
+.col-10
+{
+	width: 1000px;
+	float: left;
+}
+.col-11
+{
+	width: 1100px;
+	float: left;
+}
+.col-12
+{
+	width: 1200px;
+	float: left;
+}
+.position
+{
+    position: relative;
+    height: 2px;
+}
+.image
+{
+	padding: 30px 0px 0px 0px;
+	line-height: 20px;
+	margin-left: 100px;
+}
+.float_left
+{
+	float: left;
+}
+.float_right
+{
+	float: right;
+}
+.header ul
+{
+	list-style-type: none;
+	margin-left: 50px;
+}
+.header ul li
+{
+	float: left;
+	padding-right:20px;
+}
+.header ul li a
+{
+	text-decoration: none;
+	color: grey;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	display: inline-block;
+	border-top: 3px solid white;
+	padding-top: 35px;
+	padding-bottom: 35px;
+}
+.header ul li a:hover
+{
+	border-top-color: orange;
+	color: red;
+}
+.container h2
+{
+	border-bottom: solid 1px #f68a85;
+    display: inline-block;
+    padding-bottom: 5px;
+    font-weight: bold;
+    font-size: 22px;
+    margin-top: 0;
+    color: #333333;
+    margin-bottom: 20px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.image3
+{
+	height: 70px;
+	background-image: url("estimate-bg1.jpg");
+}
+.image3 h2
+{
+	margin-top: 22px; 
+    font-size: 30px;
+    margin-bottom: 10px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    line-height: 1.1;
+    color: white;
+    text-align: center;
+    float: left;
+    display: inline-block;
+    padding-right: 25px;
+    padding-left: 25px;
+}
+.image3 h4
+{
+	font-size: 18px;
+	display: inline-block;
+	margin-bottom: 10px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    line-height: 1.1;
+    color: white;
+    text-align: center;
+    float: left;
+    padding-left: 40px;
+    margin-top: 28px;
+}
+.fotter
+{
+	background-color: #333333;
+    font-size: 10px;
+    color: #868686;
+    padding: 20px 0;
+}
+.fotter p
+{
+	padding-left: 5px;
+	padding-right:5px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+    line-height: 1.428571429;
+}
+.container form
+{
+	display: block;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    width: 410px;
+    line-height: 1.428571429;
+    color: #333333;
+}
+.container form input
+{
+    margin-top: 10px;
+}
+.container form textarea
+{
+    margin-top: 10px;
+}
+.container form input:hover
+{
+    border-left-color: red;
+}
+.container form input[type=Submit]:hover
+{
+    background-color: #f58250;
+}
+.container form textarea:hover
+{
+    border-left-color: red;
+}
+.container ul li
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    line-height: 1.428571429;
+    color: #333333;
+}
+.clear_fix
+{
+	background-color: #fff;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    clear: both;
+}
+.clear
+{
+    clear: both;
+}
+.button
+{
+    border-left: solid 3px red;
+    border-top: none;
+    border-bottom: none;
+    border-right: none;
+    padding: 5px 20px;
+    font-size: 12px;
+    line-height: 1.5;
+    color: #fff;
+    background-color: #f58220;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+}
+.formcontrol
+{
+    display: block;
+    width: 370px;
+    height: 30px;
+    padding: 2px 12px;
+    font-size: 14px;
+    line-height: 1.428571429;
+    color: #555555;
+    vertical-align: middle;
+    background-color: #ffffff;
+    background-image: none;
+    border: 1px solid #ebebeb;
+    border-left: solid 3px #999;
+    border-radius: 0;
+    margin-bottom: 10px;
+}
+.image1 img
+{
+	width: 1200px;
+	height: 300px;
+}
+.container
+{
+	padding-right: 10px;
+    padding-left: 10px;
+}
+.bottom
+{
+    padding-bottom: 30px;
+}
+.top
+{
+    padding-top: 30px;
+}
+.width
+{
+    width: 550px;
+}
+.pad
+{
+	padding-top: 125px;
+	padding-bottom: 100px;
+}
+.fix
+{
+    background-color: #fff;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.container h3
+{
+	margin-top: 10px;
+    margin-bottom: 10px;
+    color: #333333;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    line-height: 1.1;
+    display: block;
+}
+.container p
+{
+    display: inline-block;
+    color: #333333;
+    margin: 0px 0px 10px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    line-height: 1.428571429;
+}
